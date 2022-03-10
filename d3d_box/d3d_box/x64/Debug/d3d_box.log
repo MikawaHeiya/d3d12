@@ -1,0 +1,6 @@
+﻿  d3d_box.cpp
+C:\Users\MikawaHeiya\My_Library\Document\Source\Visual Studio\d3d12\d3d_box\d3d_box\d3d_box.cpp(303,60): warning C4267: “初始化”: 从“size_t”转换到“UINT”，可能丢失数据
+C:\Users\MikawaHeiya\My_Library\Document\Source\Visual Studio\d3d12\d3d_box\d3d_box\d3d_box.cpp(303,60): warning C4267: “初始化”: 从“size_t”转换到“const UINT”，可能丢失数据
+C:\Users\MikawaHeiya\My_Library\Document\Source\Visual Studio\d3d12\d3d_box\d3d_box\d3d_box.cpp(304,67): warning C4267: “初始化”: 从“size_t”转换到“UINT”，可能丢失数据
+C:\Users\MikawaHeiya\My_Library\Document\Source\Visual Studio\d3d12\d3d_box\d3d_box\d3d_box.cpp(304,67): warning C4267: “初始化”: 从“size_t”转换到“const UINT”，可能丢失数据
+  d3d_box.vcxproj -> C:\Users\MikawaHeiya\My_Library\Document\Source\Visual Studio\d3d12\d3d_box\x64\Debug\d3d_box.exe
